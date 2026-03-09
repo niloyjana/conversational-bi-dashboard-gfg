@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+google-generativeai
+python-dotenv
+sqlalchemy
+pydantic
+numpy
+python-multipart
